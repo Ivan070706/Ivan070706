@@ -38,7 +38,14 @@
   </a>
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p> 
+  </p>
+</div>
+</details>
+
+</br></br>
+	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
